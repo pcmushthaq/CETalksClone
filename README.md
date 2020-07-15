@@ -1,6 +1,8 @@
-# cettalks1
+# CETalksClone
 
 A new Flutter project.
+
+A clone of CETalks app with additional features like playing the past programs from the app itself.
 
 ## Getting Started
 
