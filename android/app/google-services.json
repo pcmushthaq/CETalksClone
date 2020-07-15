@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42509469646",
+    "firebase_url": "https://cetalksdummy.firebaseio.com",
+    "project_id": "cetalksdummy",
+    "storage_bucket": "cetalksdummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42509469646:android:794d919999726e7bd48d9f",
+        "android_client_info": {
+          "package_name": "com.example.cettalks1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42509469646-fbu6sm7t6uu7f6rle13hijm6q184tb48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxXIsoVzjEgGlQzDLwYN0cxYSwMOmbA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42509469646-fbu6sm7t6uu7f6rle13hijm6q184tb48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

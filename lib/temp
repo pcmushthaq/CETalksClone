@@ -1,0 +1,3 @@
+<item>
+        <bitmap android:gravity="bottom" android:src="@drawable/splash" />
+    </item>
