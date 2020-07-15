@@ -83,7 +83,7 @@ const dummyTeam = const [
       imageUrl: 'https://i.imgur.com/xFfwrEK.png'),
   Member(
       id: 9,
-      name: 'Sezna',
+      name: 'Anver',
       panel: [
         {'panelId': 2},
         {'panelName': 'RJs'},
@@ -154,7 +154,7 @@ const dummyTeam = const [
       imageUrl: 'https://i.imgur.com/xFfwrEK.png'),
   Member(
       id: 16,
-      name: 'Jabeen',
+      name: 'Araro',
       panel: [
         {'panelId': 5},
         {'panelName': 'Program'},
